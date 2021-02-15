@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&family=Josefin+Sans:wght@400;500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Livvic:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400&display=swap');
 
 //Responsive Breakpoints
 $bp-largest: 75em; //1200px
@@ -8,10 +8,10 @@ $bp-medium: 50em; //800px
 $bp-small: 37.5em; //600px
 
 :root {
-  --text-default: "Montserrat", sans-serif;
-  --text-display: "Josefin Sans", sans-serif;
-  --text-code: "Source Code Pro", monospace;
+  --text-default: 'Livvic', sans-serif;
+  --text-display: 'Livvic', sans-serif;
+  --text-code: 'Source Code Pro', monospace;
   --white: #fff;
-  --light: #f8f9fa;
-  --primary: #fb1d5c;
+  --light: #f7f7fb;
+  --primary: #fa1e5a;
 }
